@@ -1,2 +1,2 @@
-# -C--programs
+# -C-programs
 Learning C Programs
